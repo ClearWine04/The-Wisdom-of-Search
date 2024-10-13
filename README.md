@@ -57,7 +57,7 @@
 
 下图是很多新手在安装虚拟机时都会遇到的一个问题
 
-![](sousuo\1.png)
+![](https://github.com/ClearWine04/The-Wisdom-of-Search/blob/main/sousuo/1.png)
 
 然而，他们看到这个问题的时候并非想着怎么解决，而是：
 
@@ -69,13 +69,13 @@
 
 > 世界那么大，你怎么敢断定没有人遇到了和你相同的问题？
 
-![](sousuo\2.png)
+![](https://github.com/ClearWine04/The-Wisdom-of-Search/blob/main/sousuo/2.png)
 
 搜索引擎第一页便是大量的解决方案，大多数情况下，只消照做，便可解决，若是长时间都无法解决，到时再找学长老师也不迟。
 
 同样的，有的同学在运行程序时也经常会看到一些报错：
 
-![](sousuo\3.png)
+![](https://github.com/ClearWine04/The-Wisdom-of-Search/blob/main/sousuo/3.png)
 
 此类报错一般来说同样只要把如下有效的报错信息复制到搜索引擎中就可以解决：
 
@@ -91,9 +91,9 @@ ModuleNotFoundError: No module named 'this_is_a_example'
 
 如下图是**BaseCTF**中*Web*方向的一道入门题：
 
-![](sousuo\4.png)
+![](https://github.com/ClearWine04/The-Wisdom-of-Search/blob/main/sousuo/4.png)
 
-![](sousuo\5.png)
+![](https://github.com/ClearWine04/The-Wisdom-of-Search/blob/main/sousuo/5.png)
 
 题目要求上传`GET`、`POST`、`Cookie`、`User-Agent`、`Referer`、`IP`等参数，
 
