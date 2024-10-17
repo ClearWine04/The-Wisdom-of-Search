@@ -142,7 +142,7 @@ ModuleNotFoundError: No module named 'this_is_a_example'
 >
 > XXX怎么用
 
-等有效关键词
+等有效关键词或是直接阅读官方文档
 
 如若只是某软件的部分功能使用存在疑惑，
 
